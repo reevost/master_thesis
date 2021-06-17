@@ -1,9 +1,9 @@
 Code repository of the master thesis:
-Kernel-based methods for persistent homologyand their applications to Alzheimer’s Disease
+Kernel-based methods for persistent homologyand their applications to Alzheimer’s Disease.
 
-the zip file, contain all persistence diagrams for testing, obtained with [ripser](https://ripser.scikit-tda.org/en/latest/)
+the zip file, contain all persistence diagrams for testing, obtained with [ripser](https://ripser.scikit-tda.org/en/latest/).
 
-The script persistence_graphs_generator.py provides the tools for building the images of the thesis
+The script persistence_graphs_generator.py provides the tools for building the images of the thesis.
 
 The script oasis_svm.py provide various example of svm classification applied to persistence diagrams.
 In particular are considered four types of kernel for persistence diagrams, respectively:
